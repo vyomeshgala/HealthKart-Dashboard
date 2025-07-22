@@ -1,0 +1,14 @@
+source,campaign,influencer_id,user_id,product,date,orders,revenue
+Instagram,MB2024,1,1001,Whey Protein,2024-01-11,3,1500
+YouTube,HKV2024,2,1002,Vitamins,2024-01-13,2,1100
+Instagram,MB2024,3,1003,Protein Bar,2024-01-14,4,1800
+Twitter,GRZ2024,4,1004,Kids Shake,2024-01-16,1,400
+YouTube,MB2024,5,1005,Whey Protein,2024-01-17,5,2200
+Instagram,HKV2024,6,1006,Vitamins,2024-01-19,2,950
+Instagram,MB2024,7,1007,Protein Bar,2024-01-20,3,1400
+YouTube,GRZ2024,8,1008,Kids Shake,2024-01-22,2,800
+Twitter,MB2024,9,1009,Whey Protein,2024-01-23,3,1350
+Instagram,HKV2024,10,1010,Vitamins,2024-01-25,2,1000
+Instagram,MB2024,1,1011,Whey Protein,2024-01-12,2,1100
+YouTube,HKV2024,2,1012,Vitamins,2024-01-13,3,1500
+Instagram,MB2024,3,1013,Protein Bar,2024-01-15,4,1700
